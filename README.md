@@ -2,7 +2,7 @@
 
 Proyecto cotizador de seguro automovil
 
-### Url productiva:
+### Url productiva: https://optimistic-kare-137830.netlify.app/
 
 # Tecnologías Usadas
 
